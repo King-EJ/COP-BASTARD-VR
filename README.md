@@ -1,5 +1,5 @@
 # COP-BASTARD-VR
-VR Mod for COP BASTARD
+VR Mod for COP BASTARD (Steam and GOG)
 
 <img width="1056" height="1489" alt="COP BASTARD" src="https://github.com/user-attachments/assets/43ab6513-cbdd-4aa2-8d63-244a11c8f6ac" />
 
